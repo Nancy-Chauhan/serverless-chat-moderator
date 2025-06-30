@@ -159,4 +159,3 @@ We welcome contributions for:
 ## License
 
 MIT License. Use freely, deploy responsibly.
-# serverless-chat-moderator
